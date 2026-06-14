@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrushti Mangalekar</h1>
-<h3 align="center">MCA Student | Software Intern | Tech Enthusiast</h3>
+<h3 align="center">MCA Student | Software Devloper  | Tech Enthusiast</h3>
 
 ---
 
@@ -8,7 +8,6 @@
 - 💻 Passionate **Software Developer** and enthusiastic learner  
 - 💼 Completed a **3-month internship** at **CodeVocado** as a *Software Intern*  
 - 🚀 Google **Student Ambassador** at my college — representing and promoting Google products  
-- 🌱 Currently building **MonthVest**, a platform for investors to view multiple investment platforms in one place  
 
 ---
 
